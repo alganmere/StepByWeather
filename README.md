@@ -3,7 +3,7 @@
 This project analyzes walking data obtained from the Apple Health app and correlates it with historical weather data. The goal is to explore how weather conditions influence walking habits and identify potential trends or patterns.  
 
 ## Research Question  
-**How do different weather conditions, such as temperature influence walking behavior and habits?**  
+**How do different weather conditions, such as temperature, influence walking behavior and habits?**  
 
 ## Motivation  
 Walking is a fundamental activity for maintaining physical and mental health. However, external factors like weather can significantly impact walking routines. By understanding these influences, we can:  
