@@ -14,21 +14,21 @@ This project emerged from a personal interest in understanding how environmental
 
 ## Project Structure
 walking-patterns-analysis/
-├── data/
-│   ├── step_data.csv     # Processed step count data
-│   └── weather_data.csv  # Historical weather data
-├── src/
-│   ├── date_extractor.py # Extracts step data from export.xml
-│   ├── weather_fetcher.py # Fetches historical weather data
-│   └── data_analyzer.py  # Analyzes data and generates plots
-├── output/
-│   ├── plots/           # Generated visualization plots
-│   │   ├── temperature_vs_steps.png
-│   │   ├── daily_steps.png
-│   │   └── ...
-│   └── analysis.txt     # Detailed analysis findings
-├── export.xml          # Raw Apple Health export data
-└── README.md          # Project documentation
+data/
+step_data.csv     # Processed step count data
+weather_data.csv  # Historical weather data
+src/
+date_extractor.py # Extracts step data from export.xml
+weather_fetcher.py # Fetches historical weather data
+data_analyzer.py  # Analyzes data and generates plots
+output/
+plots/           # Generated visualization plots
+temperature_vs_steps.png
+daily_steps.png
+...
+analysis.txt     # Detailed analysis findings
+export.xml          # Raw Apple Health export data
+README.md          # Project documentation
 
 ## Executive Summary
 This analysis explores the relationship between weather conditions and walking habits using data collected from Apple Health app and historical weather records from Istanbul, Turkey. The study spans multiple years and reveals significant patterns in how weather influences daily step counts.
