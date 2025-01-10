@@ -1,0 +1,68 @@
+=== WALKING PATTERNS ANALYSIS ===
+
+1. OVERALL STATISTICS
+Total days analyzed: 2,893
+Average daily steps: 6,148
+Highest step count: 28,430 steps
+Lowest step count: 1 steps
+
+2. TEMPERATURE IMPACT
+Average steps by temperature range:
+                   mean  count
+temp_range                    
+Cold (<5°C)     4678.16    132
+Mild (5-15°C)   5112.37   1197
+Warm (15-25°C)  6810.66   1066
+Hot (>25°C)     7609.98    498
+
+3. DAY OF WEEK PATTERNS
+Average steps by day of week:
+Monday: 6,652 steps
+Friday: 6,646 steps
+Wednesday: 6,598 steps
+Tuesday: 6,204 steps
+Thursday: 6,094 steps
+Saturday: 6,030 steps
+Sunday: 4,813 steps
+
+4. WEATHER IMPACT
+Average steps by weather condition:
+Light Rain: 6,564 steps
+Clear: 6,167 steps
+Heavy Rain: 5,783 steps
+
+5. TOP WALKING DAYS
+Top 5 days with highest step counts:
+Date: 2023-09-15, Steps: 28,430, Temperature: 22.4°C, Weather: Clear
+Date: 2023-08-14, Steps: 27,817, Temperature: 26.5°C, Weather: Clear
+Date: 2023-09-14, Steps: 27,635, Temperature: 22.5°C, Weather: Clear
+Date: 2018-06-06, Steps: 27,200, Temperature: 25.0°C, Weather: Clear
+Date: 2018-06-07, Steps: 25,885, Temperature: 25.6°C, Weather: Clear
+
+6. SEASONAL PATTERNS
+Average steps by month:
+June: 8,149 steps
+August: 7,578 steps
+September: 7,361 steps
+July: 7,154 steps
+October: 6,885 steps
+November: 5,904 steps
+February: 5,417 steps
+March: 5,391 steps
+April: 5,316 steps
+May: 5,274 steps
+December: 4,652 steps
+January: 4,637 steps
+
+7. WEATHER CORRELATIONS
+Correlation with steps:
+temp_mean: 0.250
+precipitation: -0.048
+wind_speed: 0.013
+pressure: -0.055
+
+8. KEY FINDINGS AND RECOMMENDATIONS
+- Best conditions for walking:
+  Temperature range: Hot (>25°C)
+  Day of week: Monday
+  Weather: Light Rain
